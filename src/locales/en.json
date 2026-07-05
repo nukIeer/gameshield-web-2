@@ -1,0 +1,60 @@
+{
+  "nav": {
+    "search_placeholder": "Search game or package...",
+    "language": "Language",
+    "home": "Home"
+  },
+  "home": {
+    "title": "Best Games & Shield",
+    "subtitle": "Discover and download the best games",
+    "tabs": {
+      "all": "All",
+      "top_sellers": "Top Sellers",
+      "most_played": "Most Played",
+      "new_releases": "New Releases",
+      "saved": "Saved"
+    },
+    "no_games": "No games found.",
+    "loading": "Loading games..."
+  },
+  "game_card": {
+    "downloads": "Downloads",
+    "download": "Download"
+  },
+  "game_detail": {
+    "unavailable": "Unavailable",
+    "direct_download": "Direct Download",
+    "google_play": "Google Play",
+    "galaxy_store": "Galaxy Store",
+    "whats_new": "What's New",
+    "description": "Description",
+    "screenshots": "Screenshots",
+    "downloads": "Downloads",
+    "size": "Size",
+    "version": "Version",
+    "android_version": "Android",
+    "age_rating": "Age Rating",
+    "unknown": "Unknown",
+    "no_description": "No description available."
+  },
+  "footer": {
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "kvkk": "KVKK",
+    "dmca": "DMCA",
+    "about": "About",
+    "disclaimer": "Not affiliated with or endorsed by the game publishers; all trademarks belong to their respective owners."
+  },
+  "legal": {
+    "privacy_title": "Privacy Policy",
+    "privacy_content": "This site does not collect personal data beyond standard server logs; no accounts; analytics are anonymous; no data sold.",
+    "terms_title": "Terms of Service",
+    "terms_content": "The site is a discovery/showcase directory linking to third-party stores and download mirrors; content provided \"as is\"; users are responsible for what they install; no warranty.",
+    "kvkk_title": "KVKK Notice",
+    "kvkk_content": "Under KVKK No. 6698: limited data collected (log records) is processed to provide and secure the service.",
+    "dmca_title": "DMCA Notice",
+    "dmca_content": "If copyright owners report infringing URLs via email, the related links will be promptly removed from our site.",
+    "about_title": "About Us",
+    "about_content": "Best Games & Shield website is a platform aimed at providing easy access to reliable games."
+  }
+}

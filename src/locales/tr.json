@@ -1,0 +1,60 @@
+{
+  "nav": {
+    "search_placeholder": "Oyun veya paket ara...",
+    "language": "Dil",
+    "home": "Ana Sayfa"
+  },
+  "home": {
+    "title": "Best Games & Shield",
+    "subtitle": "En iyi oyunları keşfet ve indir",
+    "tabs": {
+      "all": "Tümü",
+      "top_sellers": "Çok Satanlar",
+      "most_played": "Çok Oynananlar",
+      "new_releases": "Yeni Çıkanlar",
+      "saved": "Kaydedilenler"
+    },
+    "no_games": "Oyun bulunamadı.",
+    "loading": "Oyunlar yükleniyor..."
+  },
+  "game_card": {
+    "downloads": "İndirme",
+    "download": "İndir"
+  },
+  "game_detail": {
+    "unavailable": "Kullanılamıyor",
+    "direct_download": "Direkt İndir",
+    "google_play": "Google Play",
+    "galaxy_store": "Galaxy Store",
+    "whats_new": "Yenilikler",
+    "description": "Açıklama",
+    "screenshots": "Ekran Görüntüleri",
+    "downloads": "İndirme",
+    "size": "Boyut",
+    "version": "Sürüm",
+    "android_version": "Android",
+    "age_rating": "Yaş Sınırı",
+    "unknown": "Bilinmiyor",
+    "no_description": "Açıklama bulunmuyor."
+  },
+  "footer": {
+    "privacy": "Gizlilik",
+    "terms": "Şartlar",
+    "kvkk": "KVKK",
+    "dmca": "DMCA",
+    "about": "Hakkımızda",
+    "disclaimer": "Oyun yayıncılarıyla bağlantılı değildir veya onlar tarafından desteklenmemektedir; tüm ticari markalar ilgili sahiplerine aittir."
+  },
+  "legal": {
+    "privacy_title": "Gizlilik Politikası",
+    "privacy_content": "Bu site, standart sunucu günlükleri dışında kişisel veri toplamaz; hesap oluşturulmaz; analizler anonimdir; veriler satılmaz.",
+    "terms_title": "Kullanım Şartları",
+    "terms_content": "Site, üçüncü taraf mağazalara ve indirme aynalarına (mirrors) bağlantı veren bir keşif/vitrin dizinidir; içerik \"olduğu gibi\" sağlanır; kullanıcılar ne yüklediklerinden kendileri sorumludur; hiçbir garanti verilmez.",
+    "kvkk_title": "KVKK Aydınlatma Metni",
+    "kvkk_content": "6698 sayılı KVKK kapsamında: toplanan sınırlı veriler (log kayıtları), hizmetin sunulması ve güvenliği amacıyla işlenmektedir.",
+    "dmca_title": "DMCA / Telif Bildirimi",
+    "dmca_content": "Telif hakkı sahiplerinin ihlal edilen URL'leri e-posta ile bildirmesi halinde, ilgili bağlantılar sitemizden derhal kaldırılır.",
+    "about_title": "Hakkımızda",
+    "about_content": "Best Games & Shield web sitesi, güvenilir oyunlara kolay erişim sağlamayı amaçlayan bir platformdur."
+  }
+}
